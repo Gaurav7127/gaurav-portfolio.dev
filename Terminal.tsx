@@ -305,7 +305,7 @@ case 'education':
               GitHub: <a href="https://github.com/gaurav7127" className="text-blue-400 underline" target="_blank" rel="noopener noreferrer">@gaurav7127</a>
             </div>
             <div>
-              Portfolio: <a href="https://gaurav-portfolio.dev" className="text-blue-400 underline" target="_blank" rel="noopener noreferrer">gaurav-portfolio.dev</a>
+              Portfolio: <a href="https://https://singhgaurav-portfolio.netlify.app/" className="text-blue-400 underline" target="_blank" rel="noopener noreferrer">gaurav-portfolio.dev</a>
             </div>
           </div>
         </div>
